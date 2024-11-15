@@ -1,3 +1,4 @@
+// Find the average salary
 var average = function(salary) {
     let min = salary[0];
     let max = salary[0];
