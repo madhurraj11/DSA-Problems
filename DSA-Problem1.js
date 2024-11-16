@@ -1,3 +1,4 @@
+// Write a program to check the bracket pattern is in sequence or not.
 function isBalanced(input) { 
     const bracketPairs = { '[': ']', '{': '}', '(': ')' }; 
     const stack = []; 
