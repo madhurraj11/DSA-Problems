@@ -1,3 +1,5 @@
+// Convert to aaray form.
+
 function addToArrayForm(num,k){
     let len = num.length-1;
     let carry = 0;
