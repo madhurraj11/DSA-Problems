@@ -1,3 +1,5 @@
+// Check the two numbers amrstrong or not
+
 function ArmstrongNumber(num){
     let temp = num;
     let digits = calculatelength(temp);
