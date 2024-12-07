@@ -1,3 +1,5 @@
+//Find the longest string
+
 let str = "abcdefabcdsvhggabc";
 let max_length = 0;
 let start = 0;
